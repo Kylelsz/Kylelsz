@@ -12,7 +12,7 @@ On the whole, the entire experience with Generation Singapore is superb and I de
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Twitter Crawler with Sentiment Analysis</b>
+- <b>[Twitter Crawler with Sentiment Analysis](https://github.com/Kylelsz/TwitterCrawlerWithSA)</b>
 - <b>Data Wrangling and Analysis for Netflix</b>
 - <b>Data Analysis and Visualization with Power BI for Olist</b>
 - <b>[Blackjack Project](https://replit.com/@KyleLua/blackjack-project#main.py)</b>
