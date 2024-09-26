@@ -1,8 +1,7 @@
 <h1>Hi, I'm Kyle! <br/></h1>
 <h3>Current Status</h3>
-<h5>I am currently working in Fong's Engineering & Manufacturing Pte Ltd as a Data Engineer. 
-
-In my role as a data engineer at an enterprise level, I have gained valuable insights into user requirements, allowing me to view data from a unique perspective. While it is commonly believed that data precedes users, I contend that users' habits and needs fundamentally shape the data infrastructure.
+<h5>
+With my current role as a data engineer at an enterprise level in Fong's Engineering, I have gained valuable insights into user requirements, allowing me to view data from a unique perspective. While it is commonly believed that data precedes users, I contend that users' habits and needs fundamentally shape the data infrastructure.
 
 Although best practices are often emphasized in the field, I believe that the end user plays a crucial role — without users, there is no data. My experience at Fong's has reinforced the importance of balancing these two aspects, and I am committed to finding empathetic and effective ways to achieve this balance.</h5>
 
