@@ -6,7 +6,7 @@ With my current role as a data engineer at an enterprise level in Fong's Enginee
 Although best practices are often emphasized in the field, I believe that the end user plays a crucial role — without users, there is no data. My experience at Fong's has reinforced the importance of balancing these two aspects, and I am committed to finding empathetic and effective ways to achieve this balance.</h5>
 
 <h3>Where it all began</h3>
-<h5>My Junior Date Engineer Bootcamp journey with Generation Singapore started in December 2023, where I have been exposed to an extensive range of data engineering tools, programming languages such as Python and SQL, essential project management methodologies and frameworks, which aided in my understanding of how Data works inside out. 
+<h5>My Junior Data Engineer Bootcamp journey with Generation Singapore started in December 2023, where I have been exposed to an extensive range of data engineering tools, programming languages such as Python and SQL, essential project management methodologies and frameworks, which aided in my understanding of how Data works inside out. 
 
 I really enjoyed working with my team mates on the Twitter Crawler Project, where we had to perform data scraping from Twitter itself via an API and display understanding of ETL, EDA and ERD design by implementing data cleaning, wrangling and transformation, topping that up with a new process called Sentiment Analysis. We managed to complete the entire project using Python and SQL.
 
